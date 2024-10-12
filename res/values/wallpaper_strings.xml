@@ -1,0 +1,22 @@
+<!--
+    Copyright (C) 2024 The AtomX Project
+    SPDX-License-Identifer: Apache-2.0
+-->
+
+<resources>
+
+    <!-- Yori's Collection -->
+    <string name="category_yori_walls">Made by Yori</string>
+    <string name="author_yori">By Yoriscape</string>
+    <string name="wall_1">AtomX Blue</string>
+    <string name="wall_2">Crimson Night</string>
+    <string name="wall_3">Royal Mystique</string>
+    <string name="wall_4">Fusion Sunset</string>
+    <string name="wall_5">Emerald Calm</string>
+    <string name="wall_6">Scarlet Flame</string>
+    <string name="wall_7">Amber Glow</string>
+    <string name="wall_8">Sky Breeze</string>
+    <string name="wall_9">Lavender Dream</string>
+    <string name="wall_10">Blush Petal</string>
+
+</resources>
